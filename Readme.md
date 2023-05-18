@@ -1,11 +1,11 @@
 ![Octocat](ezgif.com-reverse.gif)
-<h1 align="center">Hi 👋, I'm Sumeyra DURAN</h1>           
+<h1 align="center">Hi 👋, I'm Mohamed Khattab</h1>           
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smyrduran3535&label=Profile%20views&color=0e75b6&style=flat" alt="smyrduran3535" /> </p>  
 
-- 🌱 I’m currently learning **Appium**  
+- 🌱 I’m currently learning **Backend | Node JS **  
 
-- 💬 Ask me about **Core Java , Selenium , Cucumber , HTML , CSS , SQL**      
+- 💬 Ask me about **Javascript , Nodejs  , PostgreSQL , Security, HTML , CSS , SQL**      
 
 - ⚡ Fun fact **I enjoy sketching and painting.**   
  
@@ -47,9 +47,9 @@
 
        
 
-[twitter]: https://twitter.com/h_huseyinbulat
-[gmail]: mailto:smyrduran3535@gmail.com
-[medium]: https://medium.com/@smyrduran3535/
-[linkedin]: https://www.linkedin.com/in/sumeyra-duran/
-[github]:  https://github.com/smyrduran3535
+[twitter]: https://twitter.com/khattab_0X
+[gmail]: Mohamed.e.khattab.0@gmail.com
+[linkedin]: https://www.linkedin.com/in/mohamed-khattab-0x/
+[github]: https://github.com/Mohamed-khattab
+
 
