@@ -42,7 +42,7 @@
 
        
 
-[twitter]: https://twitter.com/khattab_0X
+[twitter]:https://twitter.com/khattab_0X
 [gmail]: Mohamed.e.khattab.0@gmail.com
 [linkedin]: https://www.linkedin.com/in/mohamed-khattab-0x/
 [github]: https://github.com/Mohamed-khattab
