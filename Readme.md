@@ -30,20 +30,13 @@
  ![Mohamed-khattab GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-khattab&show_icons=true&theme=react)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamed-khattab&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br/> 
-
-
-
 <br /> 
 ## Problem Solving
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Mohamed.Khattab)
- <a href="https://leetcode.com/Mohamed-Khattab/">
-  <img
-    alt=" LeetCode "
-    src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
-  />
- </a></br>
-[<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' alt='Hackerrank' height='40'>](https://www.hackerrank.com/mohamedKhattab?hr_r=1)
-
+[<a href="https://codeforces.com/profile/Mohamed.Khattab"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'></a>](https://codeforces.com/profile/Mohamed.Khattab) &nbsp;&nbsp;
+<a href="https://leetcode.com/Mohamed-Khattab/">
+  <img  alt=" LeetCode " src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+ </a> &nbsp;&nbsp;
+[<a href="https://www.hackerrank.com/mohamedKhattab?hr_r=1"><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' alt='Hackerrank' height='40'></a>](https://www.hackerrank.com/mohamedKhattab?hr_r=1)
 
 
 ### Connect with me:
