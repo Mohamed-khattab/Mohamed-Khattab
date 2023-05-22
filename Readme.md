@@ -30,7 +30,7 @@
    
  ![Mohamed-khattab GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-khattab&show_icons=true&theme=react)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamed-khattab&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+![Mohamed-khattab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-khattab&theme=material-palenight&layout=compact)
 
 ## Problem Solving
 
