@@ -1,7 +1,8 @@
 ![Octocat](ezgif.com-reverse.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Khattab</h1>           
-<img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-khattab&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-khattab" /> </p>  
+
 
 - 🌱 I’m currently learning **Backend | Node JS **  
 
