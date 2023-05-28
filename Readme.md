@@ -1,14 +1,19 @@
 ![Octocat](ezgif.com-reverse.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Khattab</h1>           
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-khattab&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-khattab" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohamed-khattab&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-khattab" /> </p>  
 
+<br />
+<br />
 
 - 🌱 I’m currently learning **Backend | Node JS **  
 
 - 💬 Ask me about **Javascript , Nodejs  , PostgreSQL , Security, HTML , CSS , SQL**      
 
  
+<br />
+<br />
+<br />
 <br />
 
 ### Languages and Tools:
