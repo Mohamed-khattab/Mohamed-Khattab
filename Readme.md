@@ -31,6 +31,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style= "display:block"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px" height="40px" style= "display:block" /> 
+  <a href="https://www.git.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="typescript" width="40px" height="40px" style= "display:block" /> 
   
 <br />
 
