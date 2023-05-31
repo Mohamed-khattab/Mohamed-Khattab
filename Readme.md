@@ -27,15 +27,17 @@
 [<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />][github]
 [<img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />][github]
 [<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />][github]
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style= "display:block"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40px" height="40px" style= "display:block" /> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="typescript" width="40px" height="40px" style= "display:block" /> 
-  
-<br />
+<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png">
+[<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/)
+[<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />](https://www.typescriptlang.org/)
+[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />](https://git-scm.com/)
 
- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<br/>
+<br/>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
    
  ![Mohamed-khattab GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-khattab&show_icons=true&theme=react)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamed-khattab&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
