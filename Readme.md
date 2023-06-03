@@ -64,6 +64,7 @@
 [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arnabdey0503 | github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="arnabdey0503 | twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="arnabdey0503 | medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
        
 
@@ -71,5 +72,6 @@
 [gmail]: Mohamed.e.khattab.0@gmail.com
 [linkedin]: https://www.linkedin.com/in/mohamed-khattab-0x/
 [github]: https://github.com/Mohamed-khattab
+[medium]:https://medium.com/@mohamed.e.khattab.0
 
 
