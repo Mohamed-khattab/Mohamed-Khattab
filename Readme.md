@@ -41,21 +41,6 @@
 
 
 
-<div style="width: 100%; overflow-x: auto;">
-  <table style="width: 100%;">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-khattab&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br><br>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mohamed-khattab&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook" align="center" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 
 
 
