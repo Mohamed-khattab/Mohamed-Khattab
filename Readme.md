@@ -66,10 +66,10 @@
 
        
 
-[twitter]:https://twitter.com/khattab_0X
+[twitter]:https://twitter.com/khattab618
 [gmail]: Mohamed.e.khattab.0@gmail.com
 [linkedin]: https://www.linkedin.com/in/mohamed-khattab-0x/
 [github]: https://github.com/Mohamed-khattab
-[medium]:https://medium.com/@mohamed.e.khattab.0
+[medium]:https://medium.com/@mohamed-khattab
 
 
