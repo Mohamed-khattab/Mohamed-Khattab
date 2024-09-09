@@ -6,9 +6,9 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning **Backend | Node JS**  
+- 🌱 I’m currently Working as a Full stack Software Engineer with  **Backend | Laravel & GO, Frontend| Vue.js**  
 
-- 💬 Ask me about **HTML , CSS , Javascript , Nodejs ,React ,  PostgreSQL , SQL, Security**      
+- 💬 Ask me about **Laravel, Go, Javascript , Nodejs ,React, PostgreSQL, SQL, Security**      
 - 🔗 Check out my portfolio: [Portfolio Link](https://mohamed-khattab.github.io/)
  
 <br />
