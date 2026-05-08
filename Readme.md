@@ -82,9 +82,9 @@ I write a lot of **Go** for systems work, **PHP / Laravel** and **TypeScript** f
       <td><code>Go</code></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Mohamed-khattab/mysql-binlog-recovery"><b>mysql-binlog-recovery</b></a></td>
-      <td>Reconstructs corrupted rows from MySQL binlog <code>UPDATE</code>s when no backups exist. Built for a real production rescue.</td>
-      <td><code>Python</code></td>
+      <td><a href="https://github.com/Mohamed-khattab/Storage-Engine"><b>Storage-Engine</b></a></td>
+      <td>Database storage engine — <code>HeapManager</code> for table data and <code>IndexManager</code> with B+ tree indexes, binary on-disk format, integrity &amp; consistency invariants.</td>
+      <td><code>Go</code></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Mohamed-khattab/MemStash"><b>MemStash</b></a></td>
@@ -105,16 +105,6 @@ I write a lot of **Go** for systems work, **PHP / Laravel** and **TypeScript** f
       <td><a href="https://github.com/Mohamed-khattab/Message-Queue"><b>Message-Queue</b></a></td>
       <td>Lightweight pub/sub queue with REST APIs for subscribe / publish / consume.</td>
       <td><code>Go</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Mohamed-khattab/BioCheckin"><b>BioCheckin</b></a></td>
-      <td>Laravel + ZKTeco fingerprint integration replacing a paper attendance system during my military service.</td>
-      <td><code>Laravel · Filament</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Mohamed-khattab/whatsapp-automated-messages"><b>whatsapp-automated-messages</b></a></td>
-      <td>Free, queue-backed (RabbitMQ) WhatsApp dispatcher that ran from an offline server during deployment.</td>
-      <td><code>Python · RabbitMQ</code></td>
     </tr>
   </tbody>
 </table>
